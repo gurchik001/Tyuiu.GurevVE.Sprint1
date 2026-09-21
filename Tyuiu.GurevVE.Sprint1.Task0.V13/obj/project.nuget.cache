@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "81DDyGpjViI=",
+  "success": true,
+  "projectFilePath": "/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint1/Tyuiu.GurevVE.Sprint1.Task0.V13/Tyuiu.GurevVE.Sprint1.Task0.V13.csproj",
+  "expectedPackageFiles": [
+    "/Users/vladgurev/.nuget/packages/microsoft.netcore.app.ref/8.0.30/microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "/Users/vladgurev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "/Users/vladgurev/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.30/microsoft.netcore.app.host.osx-arm64.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
