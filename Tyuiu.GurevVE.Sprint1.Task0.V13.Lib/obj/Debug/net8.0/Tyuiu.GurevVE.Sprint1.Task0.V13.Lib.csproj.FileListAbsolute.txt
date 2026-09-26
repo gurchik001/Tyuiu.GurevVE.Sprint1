@@ -12,3 +12,4 @@
 /Users/vladgurev/repos/Tyuiu.GurevVE.Sprint1/Tyuiu.GurevVE.Sprint1.Task0.V13.Lib/obj/Debug/net8.0/refint/Tyuiu.GurevVE.Sprint1.Task0.V13.Lib.dll
 /Users/vladgurev/repos/Tyuiu.GurevVE.Sprint1/Tyuiu.GurevVE.Sprint1.Task0.V13.Lib/obj/Debug/net8.0/Tyuiu.GurevVE.Sprint1.Task0.V13.Lib.pdb
 /Users/vladgurev/repos/Tyuiu.GurevVE.Sprint1/Tyuiu.GurevVE.Sprint1.Task0.V13.Lib/obj/Debug/net8.0/ref/Tyuiu.GurevVE.Sprint1.Task0.V13.Lib.dll
+/Users/vladgurev/repos/Tyuiu.GurevVE.Sprint1/Tyuiu.GurevVE.Sprint1.Task0.V13.Lib/obj/Debug/net8.0/Tyuiu.GurevVE.Sprint1.Task0.V13.Lib.sourcelink.json
